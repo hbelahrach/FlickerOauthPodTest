@@ -1,0 +1,6 @@
+framework module Pods_MyFlickerApp {
+  umbrella header "Pods-MyFlickerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
